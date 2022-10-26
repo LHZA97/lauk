@@ -1,0 +1,24 @@
+{
+  "lauk": [
+    {
+      "id": 1,
+      "bahan_mentah": "ayam",
+      "masakan": ["merah", "kicap", "kari", "kurma"]
+    },
+    {
+      "id": 2,
+      "bahan_mentah": "daging",
+      "masakan": ["merah", "kicap", "kari", "kurma"]
+    },
+    {
+      "id": 3,
+      "bahan_mentah": "ikan",
+      "masakan": ["kicap", "kari", "sambal"]
+    },
+    {
+      "id": 4,
+      "bahan_mentah": "telur",
+      "masakan": ["kicap", "sambal"]
+    }
+  ]
+}
